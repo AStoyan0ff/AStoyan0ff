@@ -35,7 +35,7 @@
 ![Languages](https://skillicons.dev/icons?i=java,cpp,js,html,css)
 
 ### ⚙️ Backend & Tools
-![Tools](https://skillicons.dev/icons?i=spring,nodejs,kafka,git,github,vscode,idea,postman)
+![Tools](https://skillicons.dev/icons?i=spring,hibernate,nodejs,kafka,git,github,vscode,idea,postman,thymeleaf)
 
 ### 🗄️ Databases
 ![DB](https://skillicons.dev/icons?i=mysql,postgresql,oracle)
