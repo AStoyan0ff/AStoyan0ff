@@ -32,7 +32,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Languages](https://skillicons.dev/icons?i=java,cpp,js,html,css)
+![Languages](https://skillicons.dev/icons?i=java,cpp,js,ts,html,css)
 
 ### ⚙️ Backend & Tools
 ![Tools](https://skillicons.dev/icons?i=spring,hibernate,nodejs,kafka,git,github,vscode,idea,postman,clion)
