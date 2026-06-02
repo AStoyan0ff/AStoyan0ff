@@ -87,20 +87,6 @@
 
 ---
 
-## 💼 Portfolio
-
-<p align="center">
-  <a href="https://github.com/AStoyan0ff/Calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AStoyan0ff&repo=Calculator&theme=tokyonight&hide_border=true" />
-  </a>
-  
-  <a href="https://github.com/AStoyan0ff/KeyBoard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AStoyan0ff&repo=KeyBoard&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 🧪 Currently Learning
 
 - 🌱 Deepening knowledge in **Spring Boot & Spring Data**
