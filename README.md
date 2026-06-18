@@ -68,13 +68,6 @@ Online burger ordering system.
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AStoyanOff&show_icons=true&theme=dark)
-
----
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AStoyanOff&theme=dark)
-
----
 ## 📈 Activity Graph
 
 <p align="center">
