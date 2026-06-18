@@ -1,9 +1,9 @@
 <h1 align="center">
-  👋 Hi, I'm <strong>AStoyanoff</strong>
+  👋 Hi, I'm <strong>Andrey Stoyanov</strong>
 </h1>
 
 <p align="center">
-  <em>🚀 Java Full-Stack Software Engineer</em>
+  <em>Java Full-Stack Software Engineer</em>
 </p>
 
 <p align="center">
@@ -45,6 +45,16 @@
 
 ---
 
+## 🚀 Projects
+
+### 💳 ASWallet
+Personal wallet application built with Spring Boot.
+
+### 🍔 ASBurgers
+Online burger ordering system.
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -58,17 +68,13 @@
 
 ---
 
-## 🏆 Achievements & Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-GitHub%20Star-yellow?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/-Open%20Source-blue?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/-Committed%20Daily-green?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/-Top%20Languages-purple?style=for-the-badge&logo=github"/>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AStoyanOff&show_icons=true&theme=dark)
 
 ---
 
+![GitHub Streak](https://streak-stats.demolab.com?user=AStoyanOff&theme=dark)
+
+---
 ## 📈 Activity Graph
 
 <p align="center">
