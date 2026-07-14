@@ -80,8 +80,8 @@
 
 # 🚀 Featured Projects
 
-### 💳 ASWallet 
-##https://github.com/AStoyan0ff/ASWallet-Vol.2.git
+### 💳 ASWallet-Vol.2 
+https://github.com/AStoyan0ff/ASWallet-Vol.2.git
 
 > Spring Boot • Spring Security • Spring Data JPA • MySQL • REST API
 
@@ -96,7 +96,7 @@ Modern digital wallet application featuring:
 ---
 
 ### 🍔 ASBurgers
-##https://github.com/AStoyan0ff/ASWBurgers.git
+[##https://github.com/AStoyan0ff/ASWBurgers.git](https://github.com/AStoyan0ff/ASBurgers.git)
 
 > Java • Spring Boot • MySQL
 
