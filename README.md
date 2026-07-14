@@ -108,19 +108,47 @@ Online burger ordering platform featuring:
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<h2 align="center">📊 GitHub Stats</h2>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AStoyan0ff&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=AStoyan0ff&theme=tokyonight&hide_border=true"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=AStoyan0ff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="AStoyan0ff GitHub Stats"
+  />
 
-</p>
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=AStoyan0ff&theme=tokyonight&hide_border=true"
+    alt="AStoyan0ff GitHub Streak"
+  />
 
-<p align="center">
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AStoyan0ff&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<br>
 
-</p>
+<div align="center">
+
+  <img
+    height="190"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AStoyan0ff&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="AStoyan0ff Most Used Languages"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AStoyan0ff&theme=tokyo-night&hide_border=true&area=true"
+    alt="AStoyan0ff Contribution Graph"
+  />
+
+</div>
 
 ---
 
