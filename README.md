@@ -87,12 +87,6 @@ https://github.com/AStoyan0ff/ASWallet-Vol.2.git
 
 Modern digital wallet application featuring:
 
-- User Authentication
-- Wallet Management
-- Transactions
-- Secure REST API
-- Database Persistence
-
 ---
 
 ### 🍔 ASBurgers
@@ -101,10 +95,6 @@ Modern digital wallet application featuring:
 > Java • Spring Boot • MySQL
 
 Online burger ordering platform featuring:
-
-- Customer Orders
-- Menu Management
-- Administration Panel
 
 ---
 
