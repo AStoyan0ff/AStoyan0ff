@@ -157,40 +157,13 @@ Online burger ordering platform featuring:
 
 ---
 
-# 📚 Currently Learning
-
-- 🌱 Spring Security
-- 🌱 JWT Authentication
-- 🌱 Docker
-- 🌱 Microservices
-- 🌱 React
-- 🌱 System Design
-- 🌱 Cloud Fundamentals (AWS)
-
----
-
-# 🎯 Goals for 2026
-
-- 🚀 Build enterprise-level Spring Boot applications
-- 🌐 Learn React for Full-Stack Development
-- ☁️ Explore AWS Cloud
-- 🏗️ Learn Microservices Architecture
-- 🐳 Master Docker
-- 💼 Secure a Java Full-Stack Internship
-
----
-
 # 💡 Developer Mindset
 
-✔ Write clean, readable and maintainable code
-
-✔ Build scalable software
-
-✔ Learn something new every day
-
-✔ Solve problems before writing code
-
-✔ Focus on best practices
+- ✔ Write clean, readable and maintainable code
+- ✔ Build scalable software
+- ✔ Learn something new every day
+- ✔ Solve problems before writing code
+- ✔ Focus on best practices
 
 ---
 
