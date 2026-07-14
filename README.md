@@ -30,7 +30,7 @@
 
 ⚡ Interested in **Scalable Applications, Clean Architecture & REST APIs**
 
-🎯 Goal: Become a professional **Java Full-Stack Software Engineer**
+🎯 Goal: Become a professional **Java Full-Stack Software Developer**
 
 ---
 
@@ -80,7 +80,8 @@
 
 # 🚀 Featured Projects
 
-## 💳 ASWallet
+### 💳 ASWallet 
+##https://github.com/AStoyan0ff/ASWallet-Vol.2.git
 
 > Spring Boot • Spring Security • Spring Data JPA • MySQL • REST API
 
@@ -94,7 +95,8 @@ Modern digital wallet application featuring:
 
 ---
 
-## 🍔 ASBurgers
+### 🍔 ASBurgers
+##https://github.com/AStoyan0ff/ASWBurgers.git
 
 > Java • Spring Boot • MySQL
 
