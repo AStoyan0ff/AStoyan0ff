@@ -130,8 +130,6 @@ Online burger ordering platform featuring:
 
 <br>
 
-
-
 ---
 
 # 📈 Contribution Graph
