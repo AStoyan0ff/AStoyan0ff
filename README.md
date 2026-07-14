@@ -108,11 +108,10 @@ Online burger ordering platform featuring:
 
 # 📊 GitHub Analytics
 <p align="center">
-  <img
-    height="180"
-    src="https://streak-stats.demolab.com?user=AStoyan0ff&theme=tokyonight&hide_border=true"
-    alt="AStoyan0ff GitHub Streak"
-  />
+    <img
+      height="180"
+      src="https://streak-stats.demolab.com?user=AStoyan0ff&theme=tokyonight&hide_border=true"
+      alt="AStoyan0ff GitHub Streak"
 </p>
 
 </div>
