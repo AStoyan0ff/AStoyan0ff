@@ -214,6 +214,7 @@ Online burger ordering platform featuring:
 
 ---
 
+
 <p align="center">
-    ⚡ *"First, solve the problem. Then, write the code."*
+    ⚡ "First, solve the problem. Then, write the code."
 </p>
