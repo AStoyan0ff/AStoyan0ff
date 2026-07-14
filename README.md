@@ -118,18 +118,6 @@ Online burger ordering platform featuring:
 
 <br>
 
-<div align="center">
-
-  <img
-    height="190"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AStoyan0ff&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="AStoyan0ff Most Used Languages"
-  />
-
-</div>
-
-<br>
-
 ---
 
 # 📈 Contribution Graph
