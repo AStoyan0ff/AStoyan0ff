@@ -67,15 +67,19 @@ Online burger ordering system.
 
 ## 📈 Activity Graph
 
-<div align="center">
+# Hi there 👋
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?AStoyan0ff=USERNAME&show_icons=true&theme=tokyonight"/>
+## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?AStoyan0ff=USERNAME&theme=tokyonight"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AStoyan0ff&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?AStoyan0ff=USERNAME&layout=compact&theme=tokyonight"/>
+## 🔥 GitHub Streak
 
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=AStoyan0ff&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AStoyan0ff&layout=compact&theme=tokyonight)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AStoyan0ff&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
