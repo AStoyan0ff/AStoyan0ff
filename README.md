@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <em>Java Full-Stack Software Engineer</em>
+  <em>Java Full-Stack Software Developer</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Specialist;Full-Stack+Engineer;Clean+Code+Advocate" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Specialist;Full-Stack+Developer;Clean+Code+Advocate;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -15,131 +15,221 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AStoyan0ff&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AStoyan0ff&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 Student at [Software University](https://softuni.bg)  
-💡 Focused on **Full-Stack Development with Java & Spring Boot**  
-🧠 Strong in **OOP, Algorithms & Data Structures**  
-⚡ Passionate about **clean architecture & scalable systems**
+🎓 Software Engineering Student at **Software University (SoftUni)**
 
----
+💻 Passionate about **Java Backend Development**
 
-## 🛠️ Tech Stack
+🌱 Currently learning **Spring Boot, Spring Security, Spring Data JPA & Docker**
 
-### 💻 Languages
-![Languages](https://skillicons.dev/icons?i=java,cpp,js,ts,html,css)
+⚡ Interested in **Scalable Applications, Clean Architecture & REST APIs**
 
-### ⚙️ Backend & Tools
-![Tools](https://skillicons.dev/icons?i=spring,hibernate,nodejs,kafka,git,github,vscode,idea,postman,clion)
-
-### 🗄️ Databases
-![DB](https://skillicons.dev/icons?i=mysql,postgresql,oracle)
-
-### 🖥️ Systems
-![Systems](https://skillicons.dev/icons?i=linux,windows,apple)
+🎯 Goal: Become a professional **Java Full-Stack Software Engineer**
 
 ---
 
-## 🚀 Projects
+# 📌 Quick Facts
 
-### 💳 ASWallet
-Personal wallet application built with Spring Boot.
-
-### 🍔 ASBurgers
-Online burger ordering system.
+- 💼 Open to Internship Opportunities
+- 🌍 Based in Bulgaria
+- ☕ Java & Spring Boot Enthusiast
+- 📚 Continuous Learner
+- 🚀 Always building personal projects
 
 ---
 
-## 📊 GitHub Analytics
+# 🛠️ Tech Stack
 
+## 💻 Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,html,css" />
+</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AStoyan0ff&theme=tokyonight&hide_border=true" />
+## ⚙️ Backend & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,kafka,maven" />
+</p>
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,oracle" />
+</p>
+
+## 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,docker,clion" />
+</p>
+
+## 💻 Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,windows,apple" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+# 🚀 Featured Projects
 
-# Hi there 👋
+## 💳 ASWallet
 
-## 📊 GitHub Stats
+> Spring Boot • Spring Security • Spring Data JPA • MySQL • REST API
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AStoyan0ff&show_icons=true&theme=tokyonight)
+Modern digital wallet application featuring:
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AStoyan0ff&theme=tokyonight)
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AStoyan0ff&layout=compact&theme=tokyonight)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AStoyan0ff&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+- User Authentication
+- Wallet Management
+- Transactions
+- Secure REST API
+- Database Persistence
 
 ---
 
-## 🧠 Core Skills
+## 🍔 ASBurgers
 
-✔ Object-Oriented Programming  
-✔ Data Structures & Algorithms  
-✔ REST API Development  
-✔ Database Design & Optimization  
-✔ Clean Code & Design Patterns  
+> Java • Spring Boot • MySQL
 
----
+Online burger ordering platform featuring:
 
-## 🧪 Currently Learning
-
-- 🌱 Deepening knowledge in **Spring Boot & Spring Data**
-- ⚡ Working with **REST APIs & backend architecture**
-- 🧠 Improving **Data Structures & Algorithms skills**
-- 🐳 Exploring **Docker & containerization**
+- Customer Orders
+- Menu Management
+- Administration Panel
 
 ---
 
-## 🎯 Goals for 2026
-
-- 🚀 Build full-stack projects with **Spring Boot + React**
-- 🧩 Develop scalable RESTful services
-- 🏗️ Learn **Microservices Architecture**
-- ☁️ Get familiar with **Cloud (AWS / Azure basics)**
-- 💼 Land a **Full-Stack Developer Internship**
-
----
-
-## 💡 Developer Mindset
-
-✔ I focus on writing **clean, maintainable code**  
-✔ I enjoy solving **complex problems**  
-✔ I continuously learn and improve every day  
-✔ I build projects to **apply knowledge in practice**  
-
----
-
-## 🌐 Connect with Me
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/AStoyan0ff">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/andrey-stoyanov-a2b055351/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://codeberg.org/AStoyanoff">
-    <img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg"/>
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AStoyan0ff&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=AStoyan0ff&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AStoyan0ff&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AStoyan0ff&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AStoyan0ff&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AStoyan0ff&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🧠 Core Skills
+
+- ✔ Object-Oriented Programming
+- ✔ Data Structures & Algorithms
+- ✔ Java Collections Framework
+- ✔ Multithreading Basics
+- ✔ Spring Boot Development
+- ✔ Spring Data JPA
+- ✔ Hibernate ORM
+- ✔ REST API Development
+- ✔ Database Design
+- ✔ Clean Code
+- ✔ Design Patterns
+- ✔ Git & GitHub
+
+---
+
+# 📚 Currently Learning
+
+- 🌱 Spring Security
+- 🌱 JWT Authentication
+- 🌱 Docker
+- 🌱 Microservices
+- 🌱 React
+- 🌱 System Design
+- 🌱 Cloud Fundamentals (AWS)
+
+---
+
+# 🎯 Goals for 2026
+
+- 🚀 Build enterprise-level Spring Boot applications
+- 🌐 Learn React for Full-Stack Development
+- ☁️ Explore AWS Cloud
+- 🏗️ Learn Microservices Architecture
+- 🐳 Master Docker
+- 💼 Secure a Java Full-Stack Internship
+
+---
+
+# 💡 Developer Mindset
+
+✔ Write clean, readable and maintainable code
+
+✔ Build scalable software
+
+✔ Learn something new every day
+
+✔ Solve problems before writing code
+
+✔ Focus on best practices
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/AStoyan0ff">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/andrey-stoyanov-a2b055351/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://codeberg.org/AStoyanoff">
+<img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  ⚡ <em>"First, solve the problem. Then, write the code."</em>
+
+### ⚡ *"First, solve the problem. Then, write the code."*
+
 </p>
