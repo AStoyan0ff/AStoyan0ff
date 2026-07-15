@@ -98,12 +98,6 @@ Online burger ordering platform featuring:
 
 ---
 
-## 📜 Certificates
-
-<img src="C:\Users\USER\OneDrive\Документи\Сертификати-снимки\Java\Java Fundamentals.png" width="320">
-
----
-
 # 📊 GitHub Analytics
 <p align="center">
     <img
