@@ -1,9 +1,5 @@
 ---
 
-<h1 align="center">
-  👋 Hi, I'm <strong>Andrey Stoyanov</strong>
-</h1>
-
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi,+I'm+Andrey+Stoyanov+👋;Java+Full-Stack+Software+Engineer;Spring+Boot+Developer;Always+Learning+Something+New"
@@ -12,17 +8,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <em>Java Full-Stack Software Engineer</em>
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Enthusiast;Full-Stack+Developer;Clean+Code+Advocate;Always+Learning+New+Technologies"
-    alt="Typing introduction"
-  />
-</p>
 
 <p align="center">
   <img
