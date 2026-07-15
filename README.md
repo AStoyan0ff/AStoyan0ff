@@ -217,18 +217,20 @@ An online burger ordering platform featuring:
 
 # 📊 Profile Summary
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AStoyan0ff&theme=tokyonight" />
-</p>
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AStoyan0ff&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AStoyan0ff&theme=tokyonight" />
-</p>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=AStoyan0ff&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="AStoyan0ff GitHub statistics"
+  />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AStoyan0ff&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AStoyan0ff&theme=tokyonight&utcOffset=2" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AStoyan0ff&layout=compact&theme=tokyonight&hide_border=true"
+    alt="AStoyan0ff most used languages"
+  />
 </p>
 
 ---
