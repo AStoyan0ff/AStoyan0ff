@@ -78,7 +78,7 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 ### 💳 ASWallet-Vol.2 
 https://github.com/AStoyan0ff/ASWallet-Vol.2.git
@@ -95,6 +95,12 @@ Modern digital wallet application featuring:
 > Java • Spring Boot • MySQL
 
 Online burger ordering platform featuring:
+
+---
+
+## 📜 Certificates
+
+<img src="images/certificates/java-advanced.jpg" width="320">
 
 ---
 
