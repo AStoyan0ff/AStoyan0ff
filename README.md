@@ -16,29 +16,13 @@
 
 ---
 
-<div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/AStoyan0ff/AStoyan0ff/output/pacman-contribution-graph-dark.svg"
-    >
-
-      alt="AStoyan0ff Pac-Man contribution graph"
-      src="https://raw.githubusercontent.com/AStoyan0ff/AStoyan0ff/output/pacman-contribution-graph.svg"
-      width="100%"
-    >
-  </picture>
-
-</div>
-
-<!-- <div align="center" dir="auto">
+<div align="center" dir="auto">
 <themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg">
   <img alt="Pacman contribution graph" src="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg" style="visibility: visible; max-width: 100%;">
 </picture></themed-picture>
-</div> -->
+</div> 
 
 ---
 
