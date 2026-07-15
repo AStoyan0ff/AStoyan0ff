@@ -2,6 +2,8 @@
   👋 Hi, I'm <strong>Andrey Stoyanov</strong>
 </h1>
 
+---
+
 <p align="center">
   <em>Java Full-Stack Software Engineer</em>
 </p>
@@ -91,13 +93,6 @@
 <p>
   <img
     src="https://skillicons.dev/icons?i=mysql,postgresql"
-    alt="Databases"
-  />
-</p>
-
-<p>
-  <img
-    src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"
   />
 </p>
 
@@ -105,7 +100,7 @@
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,docker,clion"
+    src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,docker,clion,eclipse"
     alt="Development tools"
   />
 </p>
