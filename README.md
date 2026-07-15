@@ -73,26 +73,26 @@
 ## 💻 Languages
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,html,css"
-    alt="Programming languages"
-  />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,python,html,css" />
 </p>
 
 ## ⚙️ Backend and Frameworks
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,kafka,maven"
-    alt="Backend technologies and frameworks"
-  />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,kafka" />
+</p>
+
+## 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
 </p>
 
 ## 🗄️ Databases
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=mysql,postgresql"
+    src="https://skillicons.dev/icons?i=mysql,postgresql,oracle"
   />
 </p>
 
@@ -100,7 +100,7 @@
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,docker,clion,eclipse"
+    src="https://skillicons.dev/icons?i=git,github,idea,vscode,clion,bash,postman,docker"
     alt="Development tools"
   />
 </p>
