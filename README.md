@@ -10,6 +10,16 @@
 ---
 
 <p align="center">
+💻 Passionate about Java • Spring Boot • Clean Architecture • Microservices
+</p>
+
+<p align="center">
+🚀 Currently building production-style applications and continuously improving my skills.
+</p>
+
+---
+
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=AStoyan0ff&label=Profile%20Views&color=0e75b6&style=flat"
     alt="Profile views"
