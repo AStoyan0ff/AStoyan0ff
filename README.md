@@ -15,6 +15,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg" />
 </p>
+<img alt="Pacman contribution graph" src="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg" style="visibility: visible; max-width: 100%;">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AStoyan0ff&label=Profile%20Views&color=0e75b6&style=flat" />
