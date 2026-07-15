@@ -16,6 +16,16 @@
 
 ---
 
+<div align="center" dir="auto">
+<themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg" style="visibility: visible; max-width: 100%;">
+</picture></themed-picture>
+</div>
+
+---
+
 # 🚀 About Me
 
 🎓 Software Engineering Student at **Software University (SoftUni)**
