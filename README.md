@@ -98,7 +98,6 @@
 <p>
   <img
     src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"
-    alt="Oracle Database"
   />
 </p>
 
@@ -210,26 +209,6 @@ An online burger ordering platform featuring:
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=AStoyan0ff&theme=tokyo-night&hide_border=true"
     alt="AStoyan0ff contribution graph"
-  />
-</p>
-
----
-
-# 📊 Profile Summary
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=AStoyan0ff&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="AStoyan0ff GitHub statistics"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AStoyan0ff&layout=compact&theme=tokyonight&hide_border=true"
-    alt="AStoyan0ff most used languages"
   />
 </p>
 
