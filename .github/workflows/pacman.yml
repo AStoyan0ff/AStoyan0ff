@@ -16,7 +16,7 @@ jobs:
       contents: write
 
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
 
     steps:
       - name: Generate Pac-Man contribution graph
@@ -24,8 +24,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Publish SVG files to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push SVG files to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
