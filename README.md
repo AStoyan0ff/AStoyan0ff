@@ -276,14 +276,17 @@ An online burger ordering platform featuring:
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Profile Summary
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AStoyan0ff&theme=tokyo-night&hide_border=true"
-    alt="AStoyan0ff contribution graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AStoyan0ff&theme=tokyonight"
+    alt="AStoyan0ff GitHub profile summary"
+    width="100%"
   />
 </p>
+
+---
 
 ---
 
