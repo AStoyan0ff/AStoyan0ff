@@ -2,19 +2,19 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi,+I'm+Andrey+Stoyanov+👋;Java+Full-Stack+Software+Engineer;Spring+Boot+Developer;Always+Learning+Something+New"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Andrey+Stoyanov+👋;Java+Full-Stack+Software+Engineer;Spring+Boot+Developer;Full-Stack+%2B+DevOps;Always+Learning+Something+New"
+    alt="Typing introduction"
   />
 </p>
 
 ---
 
 <p align="center">
-💻 Passionate about Java • Spring Boot • Clean Architecture • Microservices
+  💻 Java • Spring Boot • Full-Stack Development • Clean Architecture • Microservices
 </p>
 
 <p align="center">
-🚀 Currently building production-style applications and continuously improving my skills.
+  🚀 Building production-style applications with automated testing, secure backend services and modern frontend experiences.
 </p>
 
 ---
@@ -52,13 +52,15 @@
 
 🎓 Software Engineering Student at **Software University (SoftUni)**
 
-💻 Passionate about **Java Backend Development**
+💻 Focused on **Java Full-Stack Development with Spring Boot**
 
-🌱 Currently learning **Spring Boot, Spring Security, Spring Data JPA, Docker and Microservices**
+🌱 Expanding my skills in **DevOps, Containers, Cloud Technologies and Automated Testing**
 
-⚡ Interested in **Scalable Applications, Clean Architecture and REST APIs**
+⚡ Interested in **Scalable Applications, Clean Architecture, REST APIs and Microservices**
 
-🎯 Goal: Become a professional **Java Full-Stack Software Developer**
+🧪 Building reliable end-to-end test suites with **Playwright**
+
+🎯 Goal: Become a professional **Full-Stack Software Developer with DevOps expertise**
 
 ---
 
@@ -67,8 +69,10 @@
 * 💼 Open to internship and Junior Java Developer opportunities
 * 🌍 Based in Bulgaria
 * ☕ Java and Spring Boot enthusiast
+* 🧪 Experienced with cross-browser end-to-end testing
+* ♾️ Growing toward DevOps, Containers, Cloud and Kubernetes
 * 📚 Continuous learner
-* 🚀 Always building and improving personal projects
+* 🚀 Always building, testing and improving personal projects
 
 ---
 
@@ -77,35 +81,60 @@
 ## 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,python,html,css" />
+  <img
+    src="https://skillicons.dev/icons?i=java,js,ts,cpp,python,html,css"
+    alt="Programming languages"
+  />
 </p>
 
 ## ⚙️ Backend and Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,kafka" />
+  <img
+    src="https://skillicons.dev/icons?i=spring,hibernate,maven,kafka"
+    alt="Backend technologies and frameworks"
+  />
 </p>
 
 ## 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+  <img
+    src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"
+    alt="Frontend technologies"
+  />
 </p>
+
+## 🧪 Testing
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=playwright"
+    alt="Playwright"
+  />
+</p>
+
+* End-to-end testing
+* Cross-browser testing
+* UI workflow validation
+* Chromium, Firefox and WebKit
+* GitHub Actions test automation
 
 ## 🗄️ Databases
 
 <p>
   <img
     src="https://skillicons.dev/icons?i=mysql,postgresql,oracle"
+    alt="Database technologies"
   />
 </p>
 
-## 🧰 Tools
+## 🧰 Tools and DevOps
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=git,github,idea,vscode,clion,bash,postman,docker"
-    alt="Development tools"
+    src="https://skillicons.dev/icons?i=git,github,githubactions,idea,vscode,clion,bash,postman,docker"
+    alt="Development and DevOps tools"
   />
 </p>
 
@@ -163,6 +192,51 @@ A modern digital wallet application featuring:
 > Java • Spring Boot • REST API • MySQL • Microservices
 
 A dedicated microservice for evaluating transaction risk and supporting fraud-prevention decisions.
+
+Key features:
+
+* Transaction risk assessment
+* Fraud-prevention decision support
+* REST communication with the main ASWallet application
+* API key-based service protection
+* Independent database and service configuration
+* Microservice-oriented architecture
+
+---
+
+## 🌐 ASWallet Website
+
+<p>
+  <a href="https://github.com/AStoyan0ff/ASWallet-Website">
+    <img
+      src="https://img.shields.io/badge/View_Project-ASWallet_Website-D6B46A?style=for-the-badge&logo=github&logoColor=111111"
+      alt="ASWallet Website repository"
+    />
+  </a>
+
+  <a href="https://aswallet.eu/">
+    <img
+      src="https://img.shields.io/badge/Live_Website-aswallet.eu-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="ASWallet live website"
+    />
+  </a>
+</p>
+
+> HTML • CSS • JavaScript • Playwright • GitHub Actions
+
+The official presentation website and interactive product demo for the ASWallet ecosystem.
+
+Key features:
+
+* Responsive fintech landing page
+* Interactive digital wallet demo
+* Transfers, deposits, withdrawals and money requests
+* Transaction history, reports and notifications
+* ASky interactive assistant
+* Persistent demo preferences
+* Legal, accessibility and SEO support
+* Automated GitHub Actions workflow
+* Reliable cross-browser Playwright end-to-end testing across Chromium, Firefox and WebKit
 
 ---
 
@@ -227,6 +301,10 @@ An online burger ordering platform featuring:
 * ✔ Microservice Architecture
 * ✔ Database Design
 * ✔ Unit and Integration Testing
+* ✔ End-to-End Testing with Playwright
+* ✔ Cross-Browser Testing
+* ✔ GitHub Actions and CI Workflows
+* ✔ Docker and Container Fundamentals
 * ✔ Clean Code
 * ✔ Design Patterns
 * ✔ Git and GitHub
@@ -235,10 +313,13 @@ An online burger ordering platform featuring:
 
 # 💡 Developer Mindset
 
+* ✔ Understand the problem before writing code
 * ✔ Write clean, readable and maintainable code
 * ✔ Build secure and scalable software
+* ✔ Test critical user flows across multiple browsers
+* ✔ Automate repetitive development workflows
+* ✔ Verify generated code instead of trusting it blindly
 * ✔ Learn something new every day
-* ✔ Understand the problem before writing code
 * ✔ Focus on best practices and continuous improvement
 
 ---
