@@ -286,13 +286,16 @@ An online burger ordering platform featuring:
 
 <p align="center">
   <img
-    height="180"
-    src="https://streak-stats.demolab.com?user=AStoyan0ff&theme=tokyonight&hide_border=true"
-    alt="AStoyan0ff GitHub streak"
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AStoyan0ff&theme=tokyonight"
+    alt="GitHub statistics"
+  />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AStoyan0ff&theme=tokyonight&utcOffset=3"
+    alt="Most productive development time"
   />
 </p>
-
----
 
 # 📈 GitHub Profile Summary
 
