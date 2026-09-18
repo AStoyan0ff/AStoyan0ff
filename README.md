@@ -268,17 +268,24 @@ An online burger ordering platform featuring:
 
 # 📊 Development Overview
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AStoyan0ff&theme=tokyonight"
-    alt="Repositories per language"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AStoyan0ff&theme=tokyonight"
-    alt="Most used languages by commits"
-  />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AStoyan0ff&theme=tokyonight"
+        alt="Development overview"
+      />
+    </td>
+    <td width="50%">
+      <img
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AStoyan0ff&theme=tokyonight"
+        alt="Repositories per language"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
