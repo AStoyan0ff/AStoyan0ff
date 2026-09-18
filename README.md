@@ -114,6 +114,8 @@
   />
 </p>
 
+
+
 * End-to-end testing
 * Cross-browser testing
 * UI workflow validation
@@ -264,6 +266,22 @@ An online burger ordering platform featuring:
 
 ---
 
+# 📊 Development Overview
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AStoyan0ff&theme=tokyonight"
+    alt="Repositories per language"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AStoyan0ff&theme=tokyonight"
+    alt="Most used languages by commits"
+  />
+</p>
+
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -287,6 +305,18 @@ An online burger ordering platform featuring:
 </p>
 
 ---
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AStoyan0ff&theme=tokyonight"
+    alt="GitHub statistics"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AStoyan0ff&theme=tokyonight&utcOffset=3"
+    alt="Most productive development time"
+  />
+</p>
 
 ---
 
