@@ -82,7 +82,7 @@
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=java,js,ts,cpp,python,html,css"
+    src="https://skillicons.dev/icons?i=java,js,ts,cpp,python,dart,html,css"
     alt="Programming languages"
   />
 </p>
