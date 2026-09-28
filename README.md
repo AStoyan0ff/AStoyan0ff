@@ -135,8 +135,17 @@
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,idea,vscode,clion,bash,postman,docker,azure,aws"
+    src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,bash,docker,azure,aws"
     alt="Development and DevOps tools"
+  />
+</p>
+
+## 💻 IDEs and Editors
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=idea,clion,vscode,visualstudio,androidstudio,postman"
+    alt="IDEs and code editors"
   />
 </p>
 
