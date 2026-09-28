@@ -135,7 +135,7 @@
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=git,github,githubactions,idea,vscode,clion,bash,postman,docker"
+    src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,idea,vscode,clion,bash,postman,docker"
     alt="Development and DevOps tools"
   />
 </p>
